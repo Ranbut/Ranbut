@@ -2,7 +2,7 @@
 
 ### Hi there 👋, welcome to my profile in Github
 
-Curious, daring programmer who enjoys what he does. I have knowledge with C#(.net), Python, as well as Fullstack programming with HTML, CSS, SQL, Javascript, Node.js and React. Made a technical course in Digital Games Programming and currently studying Computer Science. I intend to start posting my projects, but I'm short on time, but I'm trying and I'll get it even if it takes time.
+I am curious, daring programmer who enjoys what he does. I have knowledge with C#(.net), Python, as well as Fullstack programming with HTML, CSS, SQL, Javascript, Node.js and React. Made a technical course in Digital Games Programming and currently studying Computer Science. I intend to start posting my projects, but I'm short on time, but I'm trying and I'll get it even if it takes time.
 
 For now I'm trying to improve my drawing skills. Because of this games maybe take a few time to get ready.
 

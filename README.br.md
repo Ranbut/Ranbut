@@ -2,7 +2,7 @@
 
 ### Olá 👋, bem-vindo ao meu perfil no Github
 
-Programador curioso, ousado e que gosta do que faz. Possuo conhecimentos com C#(.net), Python, além de programação Fullstack com HTML, CSS, SQL, Javascript, Node.js e React. Feito curso técnico de Programação de Jogos Digitais e atualmente cursando Ciência da Computação. Eu pretendo começar a colocar meus projetos, porém estou com o tempo curto, mas eu estou tentando e vou conseguir mesmo que demore.
+Sou programador curioso, ousado e que gosta do que faz. Possuo conhecimentos com C#(.net), Python, além de programação Fullstack com HTML, CSS, SQL, Javascript, Node.js e React. Feito curso técnico de Programação de Jogos Digitais e atualmente cursando Ciência da Computação. Eu pretendo começar a colocar meus projetos, porém estou com o tempo curto, mas eu estou tentando e vou conseguir mesmo que demore.
 
 Por enquanto estou tentando melhorar minhas habilidades de desenho. Por causa disso, os jogos talvez demorem um pouco para ficarem prontos.
 

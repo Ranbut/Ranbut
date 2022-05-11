@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranbut)](https://github.com/anuraghazra/github-readme-stats)
+[![Ranbut's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranbut&theme=radical))](https://github.com/Ranbut/github-readme-stats)
 
 ### Hi there 👋, welcome to my profile in Github
 

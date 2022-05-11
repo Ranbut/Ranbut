@@ -7,5 +7,5 @@ Sou programador curioso, ousado e que gosta do que faz. Possuo conhecimentos com
 Por enquanto estou tentando melhorar minhas habilidades de desenho. Por causa disso, os jogos talvez demorem um pouco para ficarem prontos.
 
 Aqui está meu perfil no:
-* [Linkedin](https://www.linkedin.com/in/vitor-gabriel-do-carmo-alves-da-silva-7148901b3/?locale=en_US), com minhas qualificações.
+* [Linkedin](https://www.linkedin.com/in/vitor-gabriel-do-carmo-alves-da-silva-7148901b3), com minhas qualificações.
 * [Itch.io](https://ranbut.itch.io), para meus jogos(se que já tenha colocado algum).

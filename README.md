@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋, welcome to my profile in Github
 
 Curious, daring programmer who enjoys what he does. I have knowledge with C#(.net), Python, as well as Fullstack programming with HTML, CSS, SQL, Javascript, Node.js and React. Made a technical course in Digital Games Programming and currently studying Computer Science. I intend to start posting my projects, but I'm short on time, but I'm trying and I'll get it even if it takes time.

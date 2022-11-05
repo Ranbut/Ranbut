@@ -1,4 +1,4 @@
-![Ranbut's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranbut&theme=radical&hide=contribs,prs)
+![Ranbut's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranbut&theme=radical,prs)
 
 ### Olá 👋, bem-vindo ao meu perfil no Github
 
@@ -6,4 +6,3 @@ Sou programador curioso, ousado e que gosta do que faz. Possuo conhecimentos com
 
 Aqui está meu perfil no:
 * [Linkedin](https://www.linkedin.com/in/vitor-gabriel-do-carmo-alves-da-silva-7148901b3), com minhas qualificações.
-* [Itch.io](https://ranbut.itch.io), para meus jogos(se que já tenha colocado algum).

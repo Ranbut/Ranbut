@@ -1,4 +1,4 @@
-![Ranbut's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranbut&theme=radical,prs)
+![Ranbut's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranbut&theme=radical&show_icons=true)
 
 ### If you want to view in [Português](https://github.com/Ranbut/Ranbut/blob/main/README.br.md)
 

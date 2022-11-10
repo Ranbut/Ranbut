@@ -24,11 +24,13 @@ I am curious and daring programmer who enjoys what he does. I have knowledge wit
       <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL"  alt="OpenGL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity"  alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot"  alt="Godot" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="GCC"  alt="GCC" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>&nbsp;
 </div>
 
 Here's my profile on:
 * [Linkedin](https://www.linkedin.com/in/vitor-gabriel-do-carmo-alves-da-silva-7148901b3/?locale=en_US), for my qualifications.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranbut&theme=radical&layout=compact)](https://github.com/anuraghazra/github-    readme-stats)
+![Ranbut's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranbut&theme=radical&layout=compact)
 ![Ranbut's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranbut&theme=radical&show_icons=true)

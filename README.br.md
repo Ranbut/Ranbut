@@ -1,5 +1,7 @@
 ### Olá 👋, bem-vindo ao meu perfil no Github
 
+Programador curioso, ousado e que gosta do que faz. Possuo conhecimentos com C ,C#(.net), Python, além de programação Fullstack com HTML, CSS, SQL, Javascript, Typescript, Node.js , React. Feito curso técnico de Programação de Jogos Digitais e atualmente cursando Ciência da Computação e FullStack na Driven. Eu pretendo começar a colocar meus projetos, porém estou com o tempo curto, mas eu estou tentando e vou conseguir mesmo que demore.
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;

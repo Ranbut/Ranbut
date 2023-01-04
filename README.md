@@ -31,6 +31,7 @@ I am curious and daring programmer who enjoys what he does. I have knowledge wit
 
 Here's my profile on:
 * [Linkedin](https://www.linkedin.com/in/vitor-gabriel-do-carmo-alves-da-silva-7148901b3/?locale=en_US), for my qualifications.
+* [Itch.io](https://ranbut.itch.io/), for games (if there is one).
 
 ![Ranbut's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranbut&theme=radical&layout=compact)
 ![Ranbut's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranbut&theme=radical&show_icons=true)

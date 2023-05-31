@@ -1,8 +1,10 @@
-### Olá 👋, bem-vindo ao meu perfil no Github
+### Olá 👋, sou Vitor Gabriel (Ranbut), bem-vindo ao meu perfil no Github
 
-Programador curioso, ousado e que gosta do que faz. Possuo conhecimentos com C ,C#(.net), Python, além de programação Fullstack com HTML, CSS, SQL, Javascript, Typescript, Node.js , React. Feito curso técnico de Programação de Jogos Digitais e atualmente cursando Ciência da Computação e FullStack na Driven. Eu pretendo começar a colocar meus projetos, porém estou com o tempo curto, mas eu estou tentando e vou conseguir mesmo que demore.
+Programador curioso, ousado e que gosta do que faz.
 
-### :hammer_and_wrench: Languages and Tools :
+Feito curso técnico de Programação de Jogos Digitais e atualmente cursando Ciência da Computação e FullStack na Driven.
+
+### :hammer_and_wrench: Linguagens de Programação e Ferramentas :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -28,7 +30,7 @@ Programador curioso, ousado e que gosta do que faz. Possuo conhecimentos com C ,
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
 </div>
 
-Here's my profile on:
+Aqui está meu perfil no:
 * [Linkedin](https://www.linkedin.com/in/vitor-gabriel-do-carmo-alves-da-silva-7148901b3/?locale=en_US), for my qualifications.
 
 ![Ranbut's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranbut&theme=radical&layout=compact)

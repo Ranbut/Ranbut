@@ -4,7 +4,7 @@
 
 Hello, my name is Vitor Gabriel and I'm a curious, daring programmer who likes what he does. I'm a lover of computers, websites and games, always interested in knowing how they work.
 
-Made a technical course in Digital Games Programming and I am currently studying Computer Science and Fullstack Web Developement.
+Made a technical course in Digital Games Programming and I am currently studying Computer Science and Fullstack Web Development.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>

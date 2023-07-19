@@ -35,5 +35,5 @@ Made a technical course in Digital Games Programming and I am currently studying
 Here's my profile on:
 * [Linkedin](https://www.linkedin.com/in/vitor-gabriel-do-carmo-alves-da-silva-7148901b3/?locale=en_US), for my qualifications.
 
-![Ranbut's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranbut&theme=radical&layout=compact)
-![Ranbut's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranbut&theme=radical&show_icons=true)
+![Ranbut's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ranbut&theme=radical&layout=compact)
+![Ranbut's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ranbut&theme=radical&show_icons=true)

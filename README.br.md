@@ -1,6 +1,6 @@
 ### Olá 👋, sou Vitor Gabriel (Ranbut), bem-vindo ao meu perfil no Github
 
-Olá, meu nome é Vitor Gabriel e sou um programador curioso, ousado e que gosta do que faz. Sou um amante de computadores, sites e jogos, sempre interessado em saber como eles funcionam.
+Olá! Sou o Vitor Gabriel, desenvolvedor web full stack apaixonado por tecnologia e movido pela curiosidade no mundo dos computadores, sites e jogos. Adoro resolver problemas com código e mergulhar fundo em diversos assuntos, sempre buscando compreender a magia por trás do funcionamento dessas tecnologias.
 
 Fiz um curso técnico em Programação de Jogos Digitais e atualmente estou cursando Ciência da Computação e Desenvolvimento Web Fullstack.
 

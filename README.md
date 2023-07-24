@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Vitor Gabriel (Ranbut), welcome to my profile in Github
 
-Hello, my name is Vitor Gabriel and I'm a curious, daring programmer who likes what he does. I'm a lover of computers, websites and games, always interested in knowing how they work.
+Hello! I'm Vitor Gabriel, a full stack web developer passionate about technology and driven by curiosity in the world of computers, websites and games. I love solving problems with code and diving deep into different subjects, always trying to understand the magic behind how these technologies work.
 
 Made a technical course in Digital Games Programming and Fullstack Web Development on Driven Education, I am currently studying Computer Science
 
